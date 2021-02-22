@@ -11062,3 +11062,256 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.22-13.10.59:754][478]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/EpicCharacter.EpicCharacter
 [2021.02.22-13.10.59:754][478]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Hour_of_Code/Maps/Level_HOC_world_BuiltData.Level_HOC_world_BuiltData
 [2021.02.22-13.10.59:754][478]LogContentValidation: Display: Validating World /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world
+[2021.02.22-13.12.34:583][761]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.02.22-13.12.34:594][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.22-13.12.34:594][761]PIE: New page: PIE session: Level_HOC_world (22 févr. 2021 à 15:12:34)
+[2021.02.22-13.12.34:594][761]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.02.22-13.12.34:641][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046640s)
+[2021.02.22-13.12.34:641][761]LogAIModule: Creating AISystem for world Level_HOC_world
+[2021.02.22-13.12.34:642][761]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2021.02.22-13.12.34:642][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.047778s)
+[2021.02.22-13.12.34:656][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.02.22-13.12.34:657][761]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.02.22-13.12.34:657][761]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.22-13.12.34:657][761]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.22-13.12.34:657][761]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.22-13.12.34:657][761]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.22-13.12.34:657][761]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.22-13.12.34:657][761]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.22-13.12.34:657][761]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.22-13.12.34:657][761]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.22-13.12.34:658][761]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.22-13.12.34:658][761]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.22-13.12.34:659][761]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.22-13.12.34:659][761]LogAudioMixer: Display: 1: FrontRight
+[2021.02.22-13.12.34:666][761]LogAudioMixer: Display: Using Audio Device HP 24x (NVIDIA High Definition Audio)
+[2021.02.22-13.12.34:667][761]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.22-13.12.34:667][761]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.22-13.12.34:667][761]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.22-13.12.34:667][761]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.22-13.12.34:667][761]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.22-13.12.34:667][761]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.22-13.12.34:678][761]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.22-13.12.34:678][761]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.22-13.12.34:678][761]LogInit: FAudioDevice initialized.
+[2021.02.22-13.12.34:678][761]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level_HOC_world'.
+[2021.02.22-13.12.34:729][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.22-13.12.34:729][761]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.22-13.12.34:769][761]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2021.02.22-14.12.34
+[2021.02.22-13.12.36:164][761]LogWorld: Bringing up level for play took: 1.410950
+[2021.02.22-13.12.36:165][761]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.02.22-13.12.36:170][761]PIE: Server logged in
+[2021.02.22-13.12.36:171][761]PIE: Play in editor total start time 1,577 seconds.
+[2021.02.22-13.12.52:277][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.22-13.12.52:277][649]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2021.02.22-13.12.52:277][649]LogSlate: Window 'InsanePlateform Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.02.22-13.12.52:282][649]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.02.22-13.12.52:285][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.22-13.12.52:292][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.22-13.12.52:306][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.22-13.12.52:321][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.22-13.12.52:322][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.22-13.12.52:340][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.02.22-13.12.52:363][650]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.02.22-13.12.52:379][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.02.22-13.15.55:060][659]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.02.22-13.16.12:890][453]LogSlate: Window 'Project Settings' being destroyed
+[2021.02.22-13.16.12:892][453]LogSlate: Window 'Project Settings' being destroyed
+[2021.02.22-13.17.53:024][774]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.02.22-13.17.53:027][774]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.02.22-13.18.30:033][142]Cmd: POLY SELECT ALL
+[2021.02.22-13.19.50:011][ 86]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2021.02.22-13.19.50:011][ 86]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.22-13.19.50:013][ 86]LogAudioMixer: Display: StartRunningNullDevice() called
+[2021.02.22-13.31.25:534][162]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2021.02.22-13.31.25:534][162]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.22-13.31.25:534][162]LogAudioMixer: Display: StopRunningNullDevice() called
+[2021.02.22-13.31.25:551][162]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.22-13.31.25:551][162]LogAudioMixer: Display: 1: FrontRight
+[2021.02.22-13.31.40:141][ 79]LogEditorViewport: Clicking on Actor (LMB): Emitter (vfx_lightray_card_01_P1_soft1_sea11)
+[2021.02.22-13.32.48:802][633]LogEditorViewport: Clicking on Actor (LMB): Emitter (vfx_lightray_card_01_P1_soft1_sea9)
+[2021.02.22-13.33.06:691][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_M6)
+[2021.02.22-13.33.45:298][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.02.22-13.33.45:508][234]LogSavePackage: Moving 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Saved/Level_HOC_world_Auto3EB5FAEDE4A67DE61AB4B2CBD6F6E960B.tmp' to 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Saved/Autosaves/Game/Hour_of_Code/Maps/Level_HOC_world_Auto3.umap'
+[2021.02.22-13.33.45:510][234]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Hour_of_Code/Maps/Level_HOC_world' took 0.225
+[2021.02.22-13.33.45:510][234]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.225
+[2021.02.22-13.34.08:247][915]LogEditorViewport: Clicking on Actor (LMB): Emitter (vfx_lightray_card_01_P1_soft6)
+[2021.02.22-13.34.08:655][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cloud_D8)
+[2021.02.22-13.36.24:503][537]LogSlate: Window 'Source Control Login' being destroyed
+[2021.02.22-13.36.28:736][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.02.22-13.36.30:106][976]LogSlate: Window 'Save Content' being destroyed
+[2021.02.22-13.36.30:185][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.02.22-13.36.30:392][976]LogSavePackage: Moving 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Saved/Level_HOC_world3EC1A43D4EBB45B0EB7EFFBA64C54134.tmp' to 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Content/Hour_of_Code/Maps/Level_HOC_world.umap'
+[2021.02.22-13.36.30:405][976]LogFileHelpers: Saving map 'Level_HOC_world' took 0.233
+[2021.02.22-13.36.30:642][976]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_CrouchIdle.epicCharacter_CrouchIdle
+[2021.02.22-13.36.30:642][976]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_CrouchIdle.epicCharacter_CrouchIdle
+[2021.02.22-13.36.30:642][976]LogStaticMesh: Building static mesh SM_Powerup_A...
+[2021.02.22-13.36.30:656][976]LogStaticMesh: Built static mesh [0.01s] /Game/TeachersMarketplace/Assets/Props/Powerups/Powerup_A/Mesh/SM_Powerup_A.SM_Powerup_A
+[2021.02.22-13.36.30:662][976]LogStaticMesh: Building static mesh SM_Clover_01...
+[2021.02.22-13.36.30:666][976]LogStaticMesh: Built static mesh [0.00s] /Game/TeachersMarketplace/Assets/Environment/Foliage/Mesh/SM_Clover_01.SM_Clover_01
+[2021.02.22-13.36.30:666][976]LogStaticMesh: Building static mesh SM_Clover_02...
+[2021.02.22-13.36.30:670][976]LogStaticMesh: Built static mesh [0.00s] /Game/TeachersMarketplace/Assets/Environment/Foliage/Mesh/SM_Clover_02.SM_Clover_02
+[2021.02.22-13.36.30:670][976]LogStaticMesh: Building static mesh SM_CloverFlower_01...
+[2021.02.22-13.36.30:674][976]LogStaticMesh: Built static mesh [0.00s] /Game/TeachersMarketplace/Assets/Environment/Foliage/Mesh/SM_CloverFlower_01.SM_CloverFlower_01
+[2021.02.22-13.36.30:675][976]LogStaticMesh: Building static mesh SM_CloverFlower_02...
+[2021.02.22-13.36.30:678][976]LogStaticMesh: Built static mesh [0.00s] /Game/TeachersMarketplace/Assets/Environment/Foliage/Mesh/SM_CloverFlower_02.SM_CloverFlower_02
+[2021.02.22-13.36.30:678][976]LogStaticMesh: Building static mesh SM_epicCharacter...
+[2021.02.22-13.36.30:822][976]LogStaticMesh: Built static mesh [0.14s] /Game/TeachersMarketplace/Assets/Character/Character/Mesh/SM_epicCharacter.SM_epicCharacter
+[2021.02.22-13.36.30:847][976]LogStaticMesh: Building static mesh SM_Grass_Dk_01...
+[2021.02.22-13.36.30:855][976]LogStaticMesh: Built static mesh [0.01s] /Game/TeachersMarketplace/Assets/Environment/Foliage/Mesh/SM_Grass_Dk_01.SM_Grass_Dk_01
+[2021.02.22-13.36.30:855][976]LogStaticMesh: Building static mesh SM_Grass_Dk_02...
+[2021.02.22-13.36.30:864][976]LogStaticMesh: Built static mesh [0.01s] /Game/TeachersMarketplace/Assets/Environment/Foliage/Mesh/SM_Grass_Dk_02.SM_Grass_Dk_02
+[2021.02.22-13.36.30:865][976]LogStaticMesh: Building static mesh SM_Grass_Dk_03...
+[2021.02.22-13.36.30:877][976]LogStaticMesh: Built static mesh [0.01s] /Game/TeachersMarketplace/Assets/Environment/Foliage/Mesh/SM_Grass_Dk_03.SM_Grass_Dk_03
+[2021.02.22-13.36.30:877][976]LogStaticMesh: Building static mesh SM_Grass_Dk_05...
+[2021.02.22-13.36.30:893][976]LogStaticMesh: Built static mesh [0.02s] /Game/TeachersMarketplace/Assets/Environment/Foliage/Mesh/SM_Grass_Dk_05.SM_Grass_Dk_05
+[2021.02.22-13.36.30:894][976]LogStaticMesh: Building static mesh SM_Grass_Lt_01...
+[2021.02.22-13.36.30:902][976]LogStaticMesh: Built static mesh [0.01s] /Game/TeachersMarketplace/Assets/Environment/Foliage/Mesh/SM_Grass_Lt_01.SM_Grass_Lt_01
+[2021.02.22-13.36.30:902][976]LogStaticMesh: Building static mesh SM_Grass_Lt_02...
+[2021.02.22-13.36.30:911][976]LogStaticMesh: Built static mesh [0.01s] /Game/TeachersMarketplace/Assets/Environment/Foliage/Mesh/SM_Grass_Lt_02.SM_Grass_Lt_02
+[2021.02.22-13.36.30:912][976]LogStaticMesh: Building static mesh SM_Grass_Lt_03...
+[2021.02.22-13.36.30:924][976]LogStaticMesh: Built static mesh [0.01s] /Game/TeachersMarketplace/Assets/Environment/Foliage/Mesh/SM_Grass_Lt_03.SM_Grass_Lt_03
+[2021.02.22-13.36.30:924][976]LogStaticMesh: Building static mesh SM_Grass_Lt_04...
+[2021.02.22-13.36.30:940][976]LogStaticMesh: Built static mesh [0.02s] /Game/TeachersMarketplace/Assets/Environment/Foliage/Mesh/SM_Grass_Lt_04.SM_Grass_Lt_04
+[2021.02.22-13.36.30:941][976]LogStaticMesh: Building static mesh SM_Platform_M_A...
+[2021.02.22-13.36.30:959][976]LogStaticMesh: Built static mesh [0.02s] /Game/TeachersMarketplace/Assets/Architecture/Platforms/Platform_M_A/Mesh/SM_Platform_M_A.SM_Platform_M_A
+[2021.02.22-13.36.31:014][976]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TeachersMarketplace/Maps/TeachersMarketplace_ENVIRONMENT.TeachersMarketplace_ENVIRONMENT
+[2021.02.22-13.36.31:018][976]Cmd: MAP LOAD FILE="C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Content/TeachersMarketplace/Maps/TeachersMarketplace_ENVIRONMENT.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.22-13.36.31:018][976]LightingResults: New page: Lighting Build
+[2021.02.22-13.36.31:018][976]LoadErrors: New page: Loading map: TeachersMarketplace_ENVIRONMENT.umap
+[2021.02.22-13.36.31:085][976]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2021.02.22-13.36.31:086][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.22-13.36.31:086][976]LogWorld: UWorld::CleanupWorld for TeacherMarketplace_LIGHTING_01, bSessionEnded=true, bCleanupResources=true
+[2021.02.22-13.36.31:086][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.22-13.36.31:086][976]LogWorld: UWorld::CleanupWorld for Level_03_end, bSessionEnded=true, bCleanupResources=true
+[2021.02.22-13.36.31:086][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.22-13.36.31:086][976]LogWorld: UWorld::CleanupWorld for Level_01_end, bSessionEnded=true, bCleanupResources=true
+[2021.02.22-13.36.31:086][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.22-13.36.31:086][976]LogWorld: UWorld::CleanupWorld for Level_02_end, bSessionEnded=true, bCleanupResources=true
+[2021.02.22-13.36.31:086][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.22-13.36.31:086][976]LogWorld: UWorld::CleanupWorld for Level_04_end, bSessionEnded=true, bCleanupResources=true
+[2021.02.22-13.36.31:086][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.22-13.36.31:086][976]LogWorld: UWorld::CleanupWorld for Level_05_end, bSessionEnded=true, bCleanupResources=true
+[2021.02.22-13.36.31:086][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.22-13.36.31:086][976]MapCheck: New page: Map Check
+[2021.02.22-13.36.31:086][976]LightingResults: New page: Lighting Build
+[2021.02.22-13.36.31:111][976]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.22-13.36.31:154][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.02.22-13.36.31:168][976]LogAudio: Display: Audio Device (ID: 1) registered with world 'TeachersMarketplace_ENVIRONMENT'.
+[2021.02.22-13.36.31:207][976]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/TeachersMarketplace/Maps/TeacherMarketplace_LIGHTING_01) is flushing async loading
+[2021.02.22-13.36.31:207][976]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.02.22-13.36.31:750][976]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.22-13.36.31:750][976]LogAIModule: Creating AISystem for world TeachersMarketplace_ENVIRONMENT
+[2021.02.22-13.36.31:772][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.02.22-13.36.31:783][976]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.22-13.36.31:784][976]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,285ms to complete.
+[2021.02.22-13.36.31:784][976]LogFileHelpers: Loading map 'TeachersMarketplace_ENVIRONMENT' took 0.766
+[2021.02.22-13.36.31:825][976]AssetCheck: New page: Asset Save: Level_HOC_world
+[2021.02.22-13.36.31:825][976]LogContentValidation: Display: Validating World /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world
+[2021.02.22-13.36.31:955][976]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_FlyRough.epicCharacter_FlyRough
+[2021.02.22-13.36.31:956][976]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_Falling.epicCharacter_Falling
+[2021.02.22-13.36.31:957][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.02.22-13.36.32:017][977]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_FlySmooth.epicCharacter_FlySmooth
+[2021.02.22-13.36.32:126][979]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_Idle.epicCharacter_Idle
+[2021.02.22-13.36.32:126][979]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_Hover.epicCharacter_Hover
+[2021.02.22-13.36.32:233][983]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_Run.epicCharacter_Run
+[2021.02.22-13.36.32:283][984]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_JumpUp.epicCharacter_JumpUp
+[2021.02.22-13.36.32:345][990]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_JumpRun.epicCharacter_JumpRun
+[2021.02.22-13.36.32:395][996]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_InteractQuick.epicCharacter_InteractQuick
+[2021.02.22-13.36.32:464][  3]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_Celebrate.epicCharacter_Celebrate
+[2021.02.22-13.36.32:573][ 16]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_Interact.epicCharacter_Interact
+[2021.02.22-13.36.32:723][ 34]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_Walk.epicCharacter_Walk
+[2021.02.22-13.36.32:765][ 39]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_CrouchWalk.epicCharacter_CrouchWalk
+[2021.02.22-13.36.32:808][ 44]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TeachersMarketplace/Assets/Character/Character/Animations/epicCharacter_CrouchIdle.epicCharacter_CrouchIdle
+[2021.02.22-13.36.33:718][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.02.22-13.36.33:738][123]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TeachersMarketplace/Maps/TeacherMarketplace_LIGHTING_01.TeacherMarketplace_LIGHTING_01
+[2021.02.22-13.36.33:739][123]Cmd: MAP LOAD FILE="C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Content/TeachersMarketplace/Maps/TeacherMarketplace_LIGHTING_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.22-13.36.33:739][123]LightingResults: New page: Lighting Build
+[2021.02.22-13.36.33:739][123]LoadErrors: New page: Loading map: TeacherMarketplace_LIGHTING_01.umap
+[2021.02.22-13.36.33:770][123]LogWorld: UWorld::CleanupWorld for TeachersMarketplace_ENVIRONMENT, bSessionEnded=true, bCleanupResources=true
+[2021.02.22-13.36.33:771][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.22-13.36.33:771][123]LogWorld: UWorld::CleanupWorld for TeacherMarketplace_LIGHTING_01, bSessionEnded=true, bCleanupResources=true
+[2021.02.22-13.36.33:771][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.22-13.36.33:771][123]MapCheck: New page: Map Check
+[2021.02.22-13.36.33:771][123]LightingResults: New page: Lighting Build
+[2021.02.22-13.36.33:785][123]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.22-13.36.33:794][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.02.22-13.36.33:815][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.02.22-13.36.33:829][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.02.22-13.36.33:830][123]LogAudio: Display: Audio Device (ID: 1) registered with world 'TeacherMarketplace_LIGHTING_01'.
+[2021.02.22-13.36.33:830][123]LogAIModule: Creating AISystem for world TeacherMarketplace_LIGHTING_01
+[2021.02.22-13.36.34:360][123]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.22-13.36.34:376][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.02.22-13.36.34:387][123]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.22-13.36.34:388][123]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,11ms to complete.
+[2021.02.22-13.36.34:388][123]LogFileHelpers: Loading map 'TeacherMarketplace_LIGHTING_01' took 0.649
+[2021.02.22-13.36.34:447][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.02.22-13.36.37:983][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.02.22-13.36.38:059][528]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TeachersMarketplace/Maps/TeachersMarketplace_ENVIRONMENT.TeachersMarketplace_ENVIRONMENT
+[2021.02.22-13.36.38:060][528]Cmd: MAP LOAD FILE="C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Content/TeachersMarketplace/Maps/TeachersMarketplace_ENVIRONMENT.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.22-13.36.38:060][528]LightingResults: New page: Lighting Build
+[2021.02.22-13.36.38:060][528]LoadErrors: New page: Loading map: TeachersMarketplace_ENVIRONMENT.umap
+[2021.02.22-13.36.38:061][528]LogWorld: UWorld::CleanupWorld for TeacherMarketplace_LIGHTING_01, bSessionEnded=true, bCleanupResources=true
+[2021.02.22-13.36.38:061][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.22-13.36.38:061][528]MapCheck: New page: Map Check
+[2021.02.22-13.36.38:061][528]LightingResults: New page: Lighting Build
+[2021.02.22-13.36.38:077][528]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.22-13.36.38:081][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.02.22-13.36.38:081][528]LogAudio: Display: Audio Device (ID: 1) registered with world 'TeachersMarketplace_ENVIRONMENT'.
+[2021.02.22-13.36.38:109][528]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/TeachersMarketplace/Maps/TeacherMarketplace_LIGHTING_01) is flushing async loading
+[2021.02.22-13.36.38:109][528]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.02.22-13.36.38:646][528]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.22-13.36.38:646][528]LogAIModule: Creating AISystem for world TeachersMarketplace_ENVIRONMENT
+[2021.02.22-13.36.38:667][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.02.22-13.36.38:678][528]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.22-13.36.38:679][528]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,31ms to complete.
+[2021.02.22-13.36.38:679][528]LogFileHelpers: Loading map 'TeachersMarketplace_ENVIRONMENT' took 0.619
+[2021.02.22-13.36.40:300][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_epicCharacter)
+[2021.02.22-13.36.42:736][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.02.22-13.36.42:881][981]LogSavePackage: Moving 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Saved/TeachersMarketplace_ENVIRONMENT5E23CCB34CD0F9205CEFC29789ED4262.tmp' to 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Content/TeachersMarketplace/Maps/TeachersMarketplace_ENVIRONMENT.umap'
+[2021.02.22-13.36.42:895][981]LogFileHelpers: Saving map 'TeachersMarketplace_ENVIRONMENT' took 0.173
+[2021.02.22-13.36.42:907][981]AssetCheck: New page: Asset Save: TeachersMarketplace_ENVIRONMENT
+[2021.02.22-13.36.42:907][981]LogContentValidation: Display: Validating World /Game/TeachersMarketplace/Maps/TeachersMarketplace_ENVIRONMENT.TeachersMarketplace_ENVIRONMENT
+[2021.02.22-13.37.01:375][117]LogSourceControl: Writed 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Saved/Diff/temp-fefd8f2f0428444641e2456d21c4168439c12e53-TeachersMarketplace_ENVIRONMENT.umap' (1002279o)
+[2021.02.22-13.37.01:432][117]LoadErrors: Warning: TeachersMarketplace_ENVIRONMENT_C /Temp/Diff/temp-fefd8f2f0428444641e2456d21c4168439c12e53-TeachersMarketplace_ENVIRONMENT.TeachersMarketplace_ENVIRONMENT:PersistentLevel.TeachersMarketplace_ENVIRONMENT_C_1: class /Temp/Diff/temp-fefd8f2f0428444641e2456d21c4168439c12e53-TeachersMarketplace_ENVIRONMENT.TeachersMarketplace_ENVIRONMENT_C has been deprecated.
+[2021.02.22-13.37.22:373][490]LogEditorViewport: Clicking on Actor (LMB): Actor (Animations)
+[2021.02.22-13.37.27:149][ 57]LogEditorViewport: Clicking on Actor (LMB): Actor (Animations)
+[2021.02.22-13.37.27:240][ 66]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2021.02.22-13.37.30:738][476]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor2)
+[2021.02.22-13.37.32:321][663]LogEditorViewport: Clicking on Actor (LMB): Actor (Animations)
+[2021.02.22-13.40.16:077][708]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.40.59:100][579]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.02.22-13.40.59:103][579]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.02.22-13.41.31:700][401]LogSlate: Window 'Source Control Login' being destroyed
+[2021.02.22-13.41.53:221][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.02.22-13.41.54:749][930]LogSlate: Window 'Save Content' being destroyed
+[2021.02.22-13.41.54:839][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.02.22-13.41.54:980][930]LogSavePackage: Moving 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Saved/TeachersMarketplace_ENVIRONMENT1B40D3774987E23CC7EEA4AFCE254B05.tmp' to 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Content/TeachersMarketplace/Maps/TeachersMarketplace_ENVIRONMENT.umap'
+[2021.02.22-13.41.54:993][930]LogFileHelpers: Saving map 'TeachersMarketplace_ENVIRONMENT' took 0.167
+[2021.02.22-13.41.55:008][930]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TeachersMarketplace/Maps/TeacherMarketplace_LIGHTING_01.TeacherMarketplace_LIGHTING_01
+[2021.02.22-13.41.55:008][930]Cmd: MAP LOAD FILE="C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Content/TeachersMarketplace/Maps/TeacherMarketplace_LIGHTING_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.22-13.41.55:008][930]LightingResults: New page: Lighting Build
+[2021.02.22-13.41.55:008][930]LoadErrors: New page: Loading map: TeacherMarketplace_LIGHTING_01.umap
+[2021.02.22-13.41.55:054][930]LogWorld: UWorld::CleanupWorld for TeachersMarketplace_ENVIRONMENT, bSessionEnded=true, bCleanupResources=true
+[2021.02.22-13.41.55:055][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.22-13.41.55:055][930]LogWorld: UWorld::CleanupWorld for TeacherMarketplace_LIGHTING_01, bSessionEnded=true, bCleanupResources=true
+[2021.02.22-13.41.55:055][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.22-13.41.55:055][930]MapCheck: New page: Map Check
+[2021.02.22-13.41.55:055][930]LightingResults: New page: Lighting Build
+[2021.02.22-13.41.55:070][930]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.22-13.41.55:078][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.02.22-13.41.55:098][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.02.22-13.41.55:113][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.02.22-13.41.55:113][930]LogAudio: Display: Audio Device (ID: 1) registered with world 'TeacherMarketplace_LIGHTING_01'.
+[2021.02.22-13.41.55:113][930]LogAIModule: Creating AISystem for world TeacherMarketplace_LIGHTING_01
+[2021.02.22-13.41.55:643][930]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.22-13.41.55:659][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.02.22-13.41.55:670][930]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.22-13.41.55:671][930]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,113ms to complete.
+[2021.02.22-13.41.55:671][930]LogFileHelpers: Loading map 'TeacherMarketplace_LIGHTING_01' took 0.663
+[2021.02.22-13.41.55:723][930]AssetCheck: New page: Asset Save: TeachersMarketplace_ENVIRONMENT
+[2021.02.22-13.41.55:724][930]LogContentValidation: Display: Validating World /Game/TeachersMarketplace/Maps/TeachersMarketplace_ENVIRONMENT.TeachersMarketplace_ENVIRONMENT
+[2021.02.22-13.41.55:800][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.02.22-13.43.24:530][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island14)
+[2021.02.22-13.43.30:858][298]Cmd: TRANSACTION UNDO
+[2021.02.22-13.43.30:858][298]LogEditorTransaction: Undo Move Actors
