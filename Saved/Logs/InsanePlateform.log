@@ -11002,3 +11002,63 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.22-12.53.53:411][478]LogEditorActor: Deleted Actor: StaticMeshActor
 [2021.02.22-12.53.53:425][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
 [2021.02.22-12.53.53:427][478]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.02.22-12.58.04:679][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Large_Gate_Frame)
+[2021.02.22-13.00.24:431][278]SourceControl: Source control is disabled
+[2021.02.22-13.00.32:063][180]LogSlate: Window 'Source Control Login' being destroyed
+[2021.02.22-13.00.37:677][786]LogSlate: Window 'Source Control Login' being destroyed
+[2021.02.22-13.01.42:477][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.02.22-13.01.42:690][190]LogSavePackage: Moving 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Saved/Level_HOC_world_Auto258ADF9AC4A3F5E8134E5E5877165297E.tmp' to 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Saved/Autosaves/Game/Hour_of_Code/Maps/Level_HOC_world_Auto2.umap'
+[2021.02.22-13.01.42:692][190]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Hour_of_Code/Maps/Level_HOC_world' took 0.227
+[2021.02.22-13.01.42:692][190]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.227
+[2021.02.22-13.10.11:460][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.02.22-13.10.11:666][710]LogSavePackage: Moving 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Saved/Level_HOC_worldB0177EBC4CBF2AE16CD4F4B2CA50B278.tmp' to 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Content/Hour_of_Code/Maps/Level_HOC_world.umap'
+[2021.02.22-13.10.12:298][710]LogSavePackage: Moving 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Saved/Level_HOC_world_BuiltDataD9F35F8B47CB9D6BA62701B2B8E57B6E.tmp' to 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Content/Hour_of_Code/Maps/Level_HOC_world_BuiltData.uasset'
+[2021.02.22-13.10.12:332][710]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.22-13.10.12:332][710]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Hour_of_Code/Maps/Level_HOC_world_BuiltData.Level_HOC_world_BuiltData
+[2021.02.22-13.10.12:332][710]LogContentValidation: Display: Validating World /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world
+[2021.02.22-13.10.28:877][616]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.02.22-13.10.29:781][723]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.02.22-13.10.31:477][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.02.22-13.10.31:681][916]LogSavePackage: Moving 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Saved/Level_HOC_worldACAC101E44073985369F18BA7BBF2503.tmp' to 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Content/Hour_of_Code/Maps/Level_HOC_world.umap'
+[2021.02.22-13.10.32:710][916]LogSavePackage: Moving 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Saved/Level_HOC_world_BuiltDataD90018A54A27AA2ECF9090ABE454404F.tmp' to 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Content/Hour_of_Code/Maps/Level_HOC_world_BuiltData.uasset'
+[2021.02.22-13.10.32:722][916]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.22-13.10.32:722][916]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Hour_of_Code/Maps/Level_HOC_world_BuiltData.Level_HOC_world_BuiltData
+[2021.02.22-13.10.32:722][916]LogContentValidation: Display: Validating World /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world
+[2021.02.22-13.10.35:879][276]LogSavePackage: Moving 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Saved/EpicCharacter23726FDA412DA56BEC8355BD6B2DA39A.tmp' to 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Content/ThirdPersonBP/Blueprints/EpicCharacter.uasset'
+[2021.02.22-13.10.35:887][276]AssetCheck: New page: Asset Save: EpicCharacter
+[2021.02.22-13.10.35:887][276]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/EpicCharacter.EpicCharacter
+[2021.02.22-13.10.38:141][477]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Content: 'D:/UE4/UE_4.26/Engine/Content' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.10.38:141][477]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'D:/UE4/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.10.38:141][477]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.10.38:141][477]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'D:/UE4/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.10.38:141][477]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.10.38:141][477]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.10.38:141][477]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.10.38:141][477]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.10.38:141][477]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.10.38:141][477]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.10.38:141][477]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.10.38:141][477]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.10.38:141][477]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.10.38:141][477]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.10.38:141][477]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.10.38:141][477]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.10.38:141][477]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.10.38:141][477]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.10.38:141][477]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.10.38:141][477]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.10.38:141][477]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform'
+[2021.02.22-13.10.38:742][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.02.22-13.10.38:943][477]LogSavePackage: Moving 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Saved/Level_HOC_world0D2B2FF14A5E95FF7D2BBCB29F637DBA.tmp' to 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Content/Hour_of_Code/Maps/Level_HOC_world.umap'
+[2021.02.22-13.10.38:954][477]LogFileHelpers: Saving map 'Level_HOC_world' took 0.225
+[2021.02.22-13.10.39:529][477]LogSavePackage: Moving 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Saved/Level_HOC_world_BuiltDataE4EF3AF2446A126CCE451C9EA626BBF2.tmp' to 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Content/Hour_of_Code/Maps/Level_HOC_world_BuiltData.uasset'
+[2021.02.22-13.10.39:585][477]LogSavePackage: Moving 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Saved/EpicCharacter75914A7B4A5C2D832898A8B40D3012CF.tmp' to 'C:/Users/mheughbaert/Documents/Unreal Projects/InsanePlateform/Content/ThirdPersonBP/Blueprints/EpicCharacter.uasset'
+[2021.02.22-13.10.55:338][477]LogSlate: Window 'Submit Files' being destroyed
+[2021.02.22-13.10.59:649][477]LogSourceControl: commit successful: [master 306771a] Map trying merge 2
+[2021.02.22-13.10.59:715][477]SourceControl: [master 306771a] Map trying merge 2
+[2021.02.22-13.10.59:715][477]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2021.02.22-13.10.59:718][477]SourceControl: Commited [master 306771a] Map trying merge 2.
+[2021.02.22-13.10.59:754][478]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.22-13.10.59:754][478]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/EpicCharacter.EpicCharacter
+[2021.02.22-13.10.59:754][478]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Hour_of_Code/Maps/Level_HOC_world_BuiltData.Level_HOC_world_BuiltData
+[2021.02.22-13.10.59:754][478]LogContentValidation: Display: Validating World /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world
