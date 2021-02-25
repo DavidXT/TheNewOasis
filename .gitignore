@@ -73,6 +73,9 @@ Saved/*
 Intermediate/*
 Plugins/*/Intermediate/*
 
+# Ignore Plugins files
+Plugins/*
+
 # Cache files for the editor to use
 DerivedDataCache/* 
 Saved/Logs/InsanePlateform.log
